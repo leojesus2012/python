@@ -1,0 +1,4 @@
+# *-* coding: utf-8 *-*
+
+numero = input("Digite um número: ")
+print("O número digitado foi", numero)
